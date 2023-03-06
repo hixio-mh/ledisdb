@@ -22,7 +22,7 @@ require (
 	github.com/syndtr/goleveldb v0.0.0-20160425020131-cfa635847112
 	github.com/ugorji/go v0.0.0-20171122102828-84cb69a8af83
 	github.com/yuin/gopher-lua v0.0.0-20171031051903-609c9cd26973
-	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd
+	golang.org/x/net v0.7.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.2.8 // indirect
